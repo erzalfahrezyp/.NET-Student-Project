@@ -1,0 +1,15 @@
+C:\Users\fahre\hello\studentProject1\bin\Debug\net7.0\studentProject1.exe
+C:\Users\fahre\hello\studentProject1\bin\Debug\net7.0\studentProject1.deps.json
+C:\Users\fahre\hello\studentProject1\bin\Debug\net7.0\studentProject1.runtimeconfig.json
+C:\Users\fahre\hello\studentProject1\bin\Debug\net7.0\studentProject1.dll
+C:\Users\fahre\hello\studentProject1\bin\Debug\net7.0\studentProject1.pdb
+C:\Users\fahre\hello\studentProject1\obj\Debug\net7.0\studentProject1.csproj.AssemblyReference.cache
+C:\Users\fahre\hello\studentProject1\obj\Debug\net7.0\studentProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahre\hello\studentProject1\obj\Debug\net7.0\studentProject1.AssemblyInfoInputs.cache
+C:\Users\fahre\hello\studentProject1\obj\Debug\net7.0\studentProject1.AssemblyInfo.cs
+C:\Users\fahre\hello\studentProject1\obj\Debug\net7.0\studentProject1.csproj.CoreCompileInputs.cache
+C:\Users\fahre\hello\studentProject1\obj\Debug\net7.0\studentProject1.dll
+C:\Users\fahre\hello\studentProject1\obj\Debug\net7.0\refint\studentProject1.dll
+C:\Users\fahre\hello\studentProject1\obj\Debug\net7.0\studentProject1.pdb
+C:\Users\fahre\hello\studentProject1\obj\Debug\net7.0\studentProject1.genruntimeconfig.cache
+C:\Users\fahre\hello\studentProject1\obj\Debug\net7.0\ref\studentProject1.dll
